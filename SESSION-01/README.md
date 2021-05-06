@@ -14,7 +14,7 @@ This contains solution to END Batch 2 Seesion 1
 
 
 
-### DESCRIPTION :
+### QUESTION AND ANSWERS  :
 
 #### What is a neural network neuron?
 
