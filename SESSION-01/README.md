@@ -12,7 +12,11 @@ This contains solution to END Batch 2 Seesion 1
 
 3.run it for 2001 epochs
 
+### COLAB LINK 
 
+<a href="https://colab.research.google.com/github/jitendramishra1024/ENDB2/blob/main/END2_0_Session_1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ### QUESTION AND ANSWERS  :
 
