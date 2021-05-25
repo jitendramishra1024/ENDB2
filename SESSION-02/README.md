@@ -9,20 +9,20 @@ This contains solution to END Batch 2 Seesion 1
 
 ### EXPLAIN STEPS 
 
-Neural Network Diagram :
+#### Neural Network Diagram :
 
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="left" height="600" width="600" ></a>
 
 
-STEP :1 
+#### STEP :1 
 
 Calculate feed forward 
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-1.PNG" align="left" height="200" width="200" ></a>
 
 
-STEP 2 :
+#### STEP 2 :
 
 Calculate gradient of w5, w6 , w7 , w8 
 
@@ -30,14 +30,14 @@ Calculate gradient of w5, w6 , w7 , w8
 
 
 
-STEP 3 :
+#### STEP 3 :
 
 Calculate gradient of w1, w2 , w3 , w4
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-3.PNG" align="left" height="200" width="200" ></a>
 
 
-STEP 4 : 
+#### STEP 4 : 
 
 Update weights from w1 to w8 using gradient descent
 
@@ -45,33 +45,33 @@ Update weights from w1 to w8 using gradient descent
 
 
 
-STEP 5 Plot Loss vs Epoch for different LR :
+#### STEP 5 Plot Loss vs Epoch for different LR :
 
-LR =0.1
+##### LR =0.1
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.1.png" align="left" height="500" width="500" ></a>
 
-LR =0.2
+##### LR =0.2
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.2.png" align="left" height="500" width="500" ></a>
 
-LR=0.5
+##### LR=0.5
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.5.png" align="left" height="500" width="500" ></a>
 
 
-LR =0.8
+##### LR =0.8
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.8.png" align="left" height="500" width="500" ></a>
 
 
-LR =1
+##### LR =1
 
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%201.png align="left" height="500" width="500" ></a>
 
 
-LR=2 
+##### LR=2 
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%202.png align="left" height="500" width="500" ></a>
 
