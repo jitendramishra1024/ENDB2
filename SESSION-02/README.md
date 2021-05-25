@@ -6,6 +6,8 @@ This contains solution to END Batch 2 Seesion 1
 
 ### CREATE A NEURAL NETWORK AND DO BACK PROPAGATION USING EXCEL SHEET 
 
+### EXCEL SHEET LINK 
+    https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/BACK_PROPAGATION_THROUGH_EXCEL.xlsx
 
 ### EXPLAIN STEPS 
 
