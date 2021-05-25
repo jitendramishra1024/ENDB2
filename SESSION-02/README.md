@@ -26,7 +26,7 @@ Calculate feed forward
 
 Calculate gradient of w5, w6 , w7 , w8 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="center" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="center" height="400" width="400" ></a>
 
 
 
@@ -34,7 +34,7 @@ Calculate gradient of w5, w6 , w7 , w8
 
 Calculate gradient of w1, w2 , w3 , w4
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-3.PNG" align="center" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-3.PNG" align="center" height="400" width="400" ></a>
 
 
 #### STEP 4 : 
