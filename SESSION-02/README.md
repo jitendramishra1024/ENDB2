@@ -12,21 +12,21 @@ This contains solution to END Batch 2 Seesion 1
 #### Neural Network Diagram :
 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="left" height="600" width="600" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="center" height="600" width="600" ></a>
 
 
 #### STEP :1 
 
 Calculate feed forward 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-1.PNG" align="left" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-1.PNG" align="center" height="200" width="200" ></a>
 
 
 #### STEP 2 :
 
 Calculate gradient of w5, w6 , w7 , w8 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="left" height="200" width="200" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="center" height="200" width="200" ></a>
 
 
 
