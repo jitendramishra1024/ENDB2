@@ -14,7 +14,7 @@ This contains solution to END Batch 2 Seesion 1
 #### Neural Network Diagram :
 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/LATE_ASSIGNMENT/images/NEURAL_NETWORK.PNG" align="center" height="224" width="1129" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/LATE_ASSIGNMENT/images/NEURAL_NETWORK.PNG" align="center" height="224" width="1129" ></a>
 
 
 #### STEP :1 
