@@ -12,7 +12,7 @@ This contains solution to END Batch 2 Seesion 1
 #### Neural Network Diagram :
 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="center" height="400" width="1000" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="center" height="224" width="1129" ></a>
 
 
 #### STEP :1 
@@ -49,30 +49,30 @@ Update weights from w1 to w8 using gradient descent
 
 ##### LR =0.1
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.1.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.1.png" align="center" height="371" width="600" ></a>
 
 ##### LR =0.2
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.2.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.2.png" align="center" height="291" width="600" ></a>
 
 ##### LR=0.5
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.5.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.5.png" align="center" height="291" width="600" ></a>
 
 
 ##### LR =0.8
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.8.png" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%200.8.png" align="center" height="291" width="600" ></a>
 
 
 ##### LR =1
 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%201.png align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%201.png" align="center" height="291" width="600" ></a>
 
 
 ##### LR=2 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%202.png align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/Total%20%20Error%20%20vs%20Epoch%20at%20LR%20%3D%202.png" align="center" height="291" width="600" ></a>
 
 
