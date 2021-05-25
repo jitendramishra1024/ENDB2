@@ -26,7 +26,7 @@ Calculate feed forward
 
 Calculate gradient of w5, w6 , w7 , w8 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="center" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-2.PNG" align="center" height="205" width="961" ></a>
 
 
 
@@ -34,14 +34,14 @@ Calculate gradient of w5, w6 , w7 , w8
 
 Calculate gradient of w1, w2 , w3 , w4
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-3.PNG" align="center" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/STEP-3.PNG" align="center" height="318" width="658" ></a>
 
 
 #### STEP 4 : 
 
 Update weights from w1 to w8 using gradient descent
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/FINAL_RESULT.PNG" align="center" height="500" width="500" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/FINAL_RESULT.PNG" align="center" height="323" width="1243" ></a>
 
 
 
