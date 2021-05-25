@@ -65,7 +65,7 @@ HOW RESULT IS EVALUATED
 
 ### TRAIN AND TEST LOGS 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-03/images/EVALUATE_RESULT_PART_02.PNG" align="center" height="593" width="883" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-03/images/EVALUATE_RESULT_PART_02.png" align="center" height="593" width="883" ></a>
 
 
 ### TRAIN TEST ACCURACY AT 30 TH EPOCH 
