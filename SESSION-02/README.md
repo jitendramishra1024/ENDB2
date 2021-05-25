@@ -1,6 +1,6 @@
-# ENDB2 SESSION 1
+# ENDB2 SESSION 2
 
-This contains solution to END Batch 2 Seesion 1
+This contains solution to END Batch 2 Seesion 2
 
 ## OBJECTIVE 
 
