@@ -5,9 +5,9 @@ This contain solution  of END Batch2  SESSION 03
 # TASK /OBJECTIVE 
 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/EVA5B2/blob/main/S10/RESOURCES/TASK_S10.PNG" align="center" height="500" width="600" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-03/images/TASK.PNG" align="center" height="457" width="764" ></a>
 
-IMAGE 
+
 
 # EXPLANATION 
 
@@ -41,6 +41,14 @@ then concatenated
 
 IMAGE 
 
+## WHICH LOSS FUNCTION IS TAKEN AND WHY 
+
+cross entropy loss :
+
+cross entropy loss, which is basically log_softmax + nll_loss (negative log likelihood).
+
+It is generally  used for multiclass classifcation .
+
 ## RESULT EVALUATION 
 
 HOW RESULT IS EVALUATED 
@@ -61,9 +69,7 @@ IMAGE
 
 IMAGE
 
-## WHICH LOSS FUNCTION IS TAKEN AND WHY 
 
-NLL_LOSS 
 
 
 
