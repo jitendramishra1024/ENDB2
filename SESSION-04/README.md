@@ -10,6 +10,11 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-04/IMDB_SENTIMENT_
 
 https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-04/IMDB_SENTIMENT_LSTM.ipynb
 
+COLAB LINK :
+
+https://drive.google.com/file/d/1jpPUl0S92TQchrxH-bx-DAgJ82pmvrgT/view?usp=sharing
+
+
 ## IMDB Sentiment classifier using LSTM 
 
 ### TRAINING AND VALID LOG OF LSTM 
