@@ -1,6 +1,6 @@
-# ENDB2 SESSION 1
+# ENDB2 SESSION 05
 
-This contains solution to END Batch 2 Seesion 5
+This contains solution to END Batch 2 Seesion 05
 
 ## OBJECTIVE 
 
@@ -59,7 +59,7 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/04_Sentiment_cl
 
 ### CONFUSION MATRIX 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CONFUSION_MATRIX.PNG" align="center" height="469" width="1268" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CONFUSION_MATRIX.PNG" align="center" height="422" width="482" ></a>
 
 
 ### CORRECTLY CLASSIFIED SAMPLE 
@@ -70,3 +70,13 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/04_Sentiment_cl
 
 <a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/INCORRECT_CLASSIFIED_SAMPLES.PNG" align="center" height="465" width="927" ></a>
 
+
+## LEARNING 
+
+01 . As sentences are too small in length  do not apply too much text cleaning 
+
+02 . Using Embedding Glove increased accuracy from 30 % to 40 % 
+
+03 . Model mostly confuse between positive <--->  very positive  and negative <----> very negative 
+
+04 . Can be increased accuracy by separating positive <--->  very positive   and negative <----> very negative 
