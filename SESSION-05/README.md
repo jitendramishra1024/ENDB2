@@ -16,14 +16,57 @@ meaning : {0:'Very Negative', 1:'Negative', 2:'Neutral', 3:'Positive', 4:'Very P
 
 ### TASK 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-02/images/NEURAL_NETWORK.PNG" align="center" height="224" width="1129" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/ASSIGNMENT.PNG" align="center" height="224" width="1129" ></a>
 
 
 ### GITHUB LINK 
 
+https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/04_Sentiment_classification_SST_Glove_Final.ipynb
 
 
-### QUESTION AND ANSWERS  :
+### HOW TO PREAPRE DATASET 
 
-#### What is a neural network neuron?
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CREATE_DATASET.PNG" align="center" height="224" width="1129" ></a>
+
+
+### DATA AUGMENTATION STRATEGY 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/DATA_AUGMENTATION.PNG" align="center" height="224" width="1129" ></a>
+
+### DATA CLEANING STRATEGY 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/DATA_PREPROCESSING_CLEAN.PNG" align="center" height="224" width="1129" ></a>
+
+
+### EMBEDDING 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/GLOVE_EMBEDDING.PNG" align="center" height="224" width="1129" ></a>
+
+### LSTM MODEL 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/MODEL_MULTI_LAYER_BIDIRECTIONAL.PNG" align="center" height="224" width="1129" ></a>
+
+
+### TRAIN TEST LOG 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/TRAIN_TEST_ACC_LOSS_LOGS.PNG" align="center" height="224" width="1129" ></a>
+
+
+### TRAIN TEST LOG IMAGE 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/TRAIN_TEST_ACC_LOSS_IMAGE.PNG" align="center" height="224" width="1129" ></a>
+
+
+### CONFUSION MATRIX 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CONFUSION_MATRIX.PNG" align="center" height="224" width="1129" ></a>
+
+
+### CORRECTLY CLASSIFIED SAMPLE 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CORRECT_CLASSIFIED_SAMPLES.PNG" align="center" height="224" width="1129" ></a>
+
+### INCORRECTLY CLASSIFIED SAMPLE 
+
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/INCORRECT_CLASSIFIED_SAMPLES.PNG" align="center" height="224" width="1129" ></a>
 
