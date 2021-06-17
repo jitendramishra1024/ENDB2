@@ -13,22 +13,18 @@ We need to do sentiment analysis for StanfordSentimentAnalysis  .
 
 ### TASK 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/ASSIGNMENT.PNG" align="center" height="388" width="757" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/TASK_01.PNG" align="center" height="368" width="764" ></a>
 
 
 ### GITHUB LINK 
 
-https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/04_Sentiment_classification_SST_Glove_Final.ipynb
+https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/SESSION_07_ASSIGNMENT_01_SST_SENTIMENT.ipynb
 
 
 ### HOW TO PREAPRE DATASET 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CREATE_DATASET.PNG" align="center" height="523" width="1097" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/DATASET_PREPARATION.PNG" align="center" height="233" width="899" ></a>
 
-
-### DATA CLEANING STRATEGY 
-
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/DATA_PREPROCESSING_CLEAN.PNG" align="center" height="223" width="606" ></a>
 
 
 ### EMBEDDING 
@@ -42,26 +38,26 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/04_Sentiment_cl
 
 ### TRAIN TEST LOG 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/TRAIN_TEST_ACC_LOSS_LOGS.PNG" align="center" height="514" width="286" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/TRAINING_LOG_1.PNG" align="center" height="465" width="296" ></a>
 
 
 ### TRAIN TEST LOG IMAGE 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/TRAIN_TEST_ACC_LOSS_IMAGE.PNG" align="center" height="439" width="660" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/TRAIN_TEST_LOSS_ACC.PNG" align="center" height="455" width="670" ></a>
 
 
 ### CONFUSION MATRIX 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CONFUSION_MATRIX.PNG" align="center" height="422" width="482" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/CONFUSION_MATRIX.PNG" align="center" height="423" width="500" ></a>
 
 
 ### CORRECTLY CLASSIFIED SAMPLE 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/CORRECT_CLASSIFIED_SAMPLES.PNG" align="center" height="469" width="1268" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/CORRECTLY_CLASSIFIED.PNG" align="center" height="489" width="1042" ></a>
 
 ### INCORRECTLY CLASSIFIED SAMPLE 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-05/images/INCORRECT_CLASSIFIED_SAMPLES.PNG" align="center" height="465" width="927" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/INCORRECTLY_CLASSIFED.PNG" align="center" height="511" width="1112" ></a>
 
 
 ## ASSIGNMENT 02 
