@@ -23,7 +23,7 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/SESSION_07_ASSI
 
 ### HOW TO PREAPRE DATASET 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/DATASET_PREPARATION.PNG" align="center" height="233" width="899" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-07/images/DATASET_PREPARATION.PNG" align="center" height="431" width="899" ></a>
 
 
 
