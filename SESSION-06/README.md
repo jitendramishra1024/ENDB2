@@ -29,7 +29,7 @@ https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-06/END_B2_S06_TWEE
 
 ### TRAIN TEST LOG IMAGE 
 
-<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-06/images/TRAIN_TEST_ACC_IMG.PNG" align="center" height="593" width="885" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/ENDB2/blob/main/SESSION-06/images/TRAIN_TEST_ACC_IMG.png" align="center" height="593" width="885" ></a>
 
 
 
